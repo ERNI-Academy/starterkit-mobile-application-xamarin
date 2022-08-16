@@ -24,8 +24,8 @@ ERNI Academy mobile boilerplate to start a cross-platform or native mobile appli
 
 ## Getting Started
 
-[Install Xamarin](https://docs.microsoft.com/en-us/xamarin/get-started/installation/?pivots=windows)
-[Xamarin documentaion](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/)
+* [Install Xamarin](https://docs.microsoft.com/en-us/xamarin/get-started/installation/?pivots=windows)
+* [Xamarin documentaion](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/)
 
 ## Prerequisites
 
@@ -62,7 +62,7 @@ Please see our [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Stats
 
-Check [https://repobeats.axiom.co/](https://repobeats.axiom.co/) for the right URL
+![https://repobeats.axiom.co/api/embed/4d49c4b5533121366827bc91420b55930dfcd951.svg](https://repobeats.axiom.co/api/embed/4d49c4b5533121366827bc91420b55930dfcd951.svg)
 
 ## Follow us
 
