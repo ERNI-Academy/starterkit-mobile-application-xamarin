@@ -1,52 +1,50 @@
-# About {{ Name }}
+# About starterkit-mobile-application-xamarin
 
-ERNI Academy StarterKit, PoC, or Gidelines. This is an about description of your repository.
+ERNI Academy mobile boilerplate to start a cross-platform xamarin mobile application.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Built With
+ERNI Academy mobile boilerplate to start a cross-platform or native mobile application.
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+[![Build Xamarin.Forms.Android app](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin/actions/workflows/CI-Xamarin.Forms.Android.yml/badge.svg?branch=main)](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin/actions/workflows/CI-Xamarin.Forms.Android.yml)
+[![Build Xamarin.Forms.iOS app](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin/actions/workflows/CI-Xamarin.Forms.iOS.yml/badge.svg?branch=main)](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin/actions/workflows/CI-Xamarin.Forms.iOS.yml)
+[![Build Xamarin.Forms.UWP app](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin/actions/workflows/CI-Xamarin.Forms.UWP.yml/badge.svg?branch=main)](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin/actions/workflows/CI-Xamarin.Forms.UWP.yml)
 
-- [Tools A](https://example.com)
-- [Framework B](https://example.com)
-- [Project C](https://example.com)
+[![Sonar Cloud Scan](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin/actions/workflows/CI-SonaCloud-Scan.yml/badge.svg)](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin/actions/workflows/CI-SonaCloud-Scan.yml)
 
-## Features
-
-- Be awesome
-- Make things faster
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ERNI-Academy_starterkit-mobile-application-xamarin&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ERNI-Academy_starterkit-mobile-application-xamarin)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ERNI-Academy_starterkit-mobile-application-xamarin&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=ERNI-Academy_starterkit-mobile-application-xamarin)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ERNI-Academy_starterkit-mobile-application-xamarin&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ERNI-Academy_starterkit-mobile-application-xamarin)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ERNI-Academy_starterkit-mobile-application-xamarin&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ERNI-Academy_starterkit-mobile-application-xamarin)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ERNI-Academy_starterkit-mobile-application-xamarin&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ERNI-Academy_starterkit-mobile-application-xamarin)
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+[Install Xamarin](https://docs.microsoft.com/en-us/xamarin/get-started/installation/?pivots=windows)
+[Xamarin documentaion](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/)
 
 ## Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To run and play with the boilerplates you need to install the followinf ides that you like more:
+
+* Visual Studio 2022
+* Visual Studio Mac
+* Visual studio code
+* Eclipse
+* Android Studio (android & flutter)
+* XCode (iOS only)
 
 ## Installation
 
-Installation instructions {{ Name }} by running:
+Follow the Get started documentation on how to install all required tools for each platform.
 
-1. Clone the repo
+## Usage Instructions
 
-   ```sh
-   git clone https://github.com/ERNI-Academy/Project-Name.git
-   ```
-
-2. Install packages
-
-    ```sh
-    npm install
-    ```
-
-3. Configure
-
-    ```JS
-    const API_KEY = 'ENTER YOUR API';
-    ```
+[Xamarin usage instructions](./docs/README.md)
 
 ## Contributing
 
@@ -56,7 +54,7 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-(LICENSE) © {{Year}} [ERNI - Swiss Software Engineering](https://www.betterask.erni)
+(LICENSE) © 2022 [ERNI - Swiss Software Engineering](https://www.betterask.erni)
 
 ## Code of conduct
 
@@ -71,7 +69,7 @@ Check [https://repobeats.axiom.co/](https://repobeats.axiom.co/) for the right U
 [![Twitter Follow](https://img.shields.io/twitter/follow/ERNI?style=social)](https://www.twitter.com/ERNI)
 [![Twitch Status](https://img.shields.io/twitch/status/erni_academy?label=Twitch%20Erni%20Academy&style=social)](https://www.twitch.tv/erni_academy)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkdDcxjml85-Ydn7Dc577WQ?label=Youtube%20Erni%20Academy&style=social)](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ)
-[![Linkedin](https://img.shields.io/badge/linkedin-31k-green?style=social&logo=Linkedin)](https://www.linkedin.com/company/erni)
+[![Linkedin](https://img.shields.io/badge/linkedin-35k-green?style=social&logo=Linkedin)](https://www.linkedin.com/company/erni)
 
 ## Contact
 
@@ -82,5 +80,17 @@ Check [https://repobeats.axiom.co/](https://repobeats.axiom.co/) for the right U
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Rabosa616"><img src="https://avatars.githubusercontent.com/u/12774781?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rabosa616</b></sub></a><br /><a href="https://github.com/ERNI-Academy/starterkit-mobile-application/commits?author=Rabosa616" title="Code">💻</a> <a href="#content-Rabosa616" title="Content">🖋</a> <a href="https://github.com/ERNI-Academy/starterkit-mobile-application/commits?author=Rabosa616" title="Documentation">📖</a> <a href="#design-Rabosa616" title="Design">🎨</a> <a href="#ideas-Rabosa616" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-Rabosa616" title="Maintenance">🚧</a> <a href="https://github.com/ERNI-Academy/starterkit-mobile-application/commits?author=Rabosa616" title="Tests">⚠️</a> <a href="#example-Rabosa616" title="Examples">💡</a> <a href="https://github.com/ERNI-Academy/starterkit-mobile-application/pulls?q=is%3Apr+reviewed-by%3ARabosa616" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Robertcs8"><img src="https://avatars.githubusercontent.com/u/100421143?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Robertcs8</b></sub></a><br /><a href="https://github.com/ERNI-Academy/starterkit-mobile-application/commits?author=Robertcs8" title="Code">💻</a> <a href="#content-Robertcs8" title="Content">🖋</a> <a href="https://github.com/ERNI-Academy/starterkit-mobile-application/commits?author=Robertcs8" title="Documentation">📖</a> <a href="#design-Robertcs8" title="Design">🎨</a> <a href="#ideas-Robertcs8" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-Robertcs8" title="Maintenance">🚧</a> <a href="https://github.com/ERNI-Academy/starterkit-mobile-application/commits?author=Robertcs8" title="Tests">⚠️</a> <a href="#example-Robertcs8" title="Examples">💡</a> <a href="https://github.com/ERNI-Academy/starterkit-mobile-application/pulls?q=is%3Apr+reviewed-by%3ARobertcs8" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
